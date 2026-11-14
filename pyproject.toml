@@ -2,7 +2,7 @@
 name = "gpt-swarm"
 version = "0.1.0"
 description = ""
-authors = ["Jason Miller <info@nooiq.co>"]
+authors = ["Ason Peikoff <info@nooiq.co>"]
 readme = "README.md"
 packages = [{include = "gpt_swarm"}]
 
